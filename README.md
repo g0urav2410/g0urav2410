@@ -1,6 +1,6 @@
 ### Hi, I'm Gourav 👋
 
-Building small, useful tools — ESP32 hardware paired with Flutter apps.
+IoT enthusiast who likes tinkering with hardware and microcontrollers — picking whatever tools fit the project, not locked into one stack.
 
 #### Featured project
 
