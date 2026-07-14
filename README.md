@@ -1,13 +1,14 @@
 ### Hi, I'm Gourav 👋
 
-IoT & embedded systems tinkerer building small, useful things — ESP32 hardware paired with Flutter apps, home automation, and desktop utilities.
+I design and build IoT hardware paired with the software that runs it — from ESP32-based smart home devices to the desktop and mobile apps that control them.
 
-- 🔧 Currently building **ESP32-based smart home devices** (IR control, presence sensing, environment monitoring)
-- 📱 Pairing hardware with **Flutter** apps (Android + Windows desktop)
-- 🏠 Integrating everything with **Home Assistant** over MQTT
+**What I build**
+- 🔧 Embedded firmware for ESP32 / ESP8266 — IR control, presence sensing, environment monitoring
+- 📱 Cross-platform apps in Flutter, for Android and Windows desktop
+- 🏠 Home Assistant / MQTT integrations that tie hardware and software together
 
 #### Featured project
 
-**[rtsp-viewer](https://github.com/g0urav2410/rtsp-viewer)** — a lightweight Windows desktop app for watching up to 4 RTSP camera streams at once, with always-on-top pinning, adjustable opacity, and auto-reconnect.
+**[rtsp-viewer](https://github.com/g0urav2410/rtsp-viewer)** — a Windows desktop app for monitoring up to 4 RTSP camera streams at once: always-on-top pinning, adjustable window opacity, custom layouts, and auto-reconnect on launch.
 
-More projects coming as they get cleaned up for release.
+More projects are being cleaned up for release — check back soon.
